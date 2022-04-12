@@ -1,0 +1,16 @@
+{
+  "name": "nodejspractice",
+  "version": "1.0.0",
+  "description": "installed for practice purposes",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Ankit Guha",
+  "license": "ISC",
+  "dependencies": {
+    "@uirouter/angularjs": "^1.0.29",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.2"
+  }
+}
